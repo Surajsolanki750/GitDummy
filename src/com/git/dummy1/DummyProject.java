@@ -4,6 +4,7 @@ public class DummyProject {
 
 	public static void main(String[] args) {
 		System.out.println("GitDummy");
+		System.out.println("Version check here");
 	}
 
 }
