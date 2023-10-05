@@ -8,8 +8,5 @@ public class DummyProject {
 		System.out.println("Version 3.0.1");
 		System.out.println("Version 4.0");
 		System.out.println("Version 5.0");
-		System.out.println("Version 3.0");
-		System.out.println("Version 4.0");
 	}
-
 }
